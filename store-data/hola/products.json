@@ -1,0 +1,23 @@
+[
+  {
+    "storeId": "store-1794493536923-sa9qe",
+    "title": "p22",
+    "description": "filled",
+    "price": 19,
+    "currency": "USD",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/NexusPrime1112/green-store-assets@main/store-assets/store-1794493536923-sa9qe/1794495321676-Screenshot_2026-01-10_161646.png"
+    ],
+    "inventory": 50,
+    "customDeliveryRadiusKm": 10,
+    "allowCod": true,
+    "addons": [],
+    "isFamousDish": true,
+    "tags": [
+      "bread"
+    ],
+    "isArchived": false,
+    "id": "prod-1794495331269-wfo29",
+    "createdAt": "2026-11-12T14:55:31.269Z"
+  }
+]
